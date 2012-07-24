@@ -6,9 +6,8 @@ public class PingPong {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Ping Pong...");
-		
-		System.out.println("Pong Ping...");
+		System.out.println("Ping -->");
+		System.out.println("Pong <--");
 	}
 
 }
